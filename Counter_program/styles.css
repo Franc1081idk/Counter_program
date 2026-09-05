@@ -1,0 +1,28 @@
+main {
+  background-color: white;
+  border: solid black;
+  height: 150px;
+  padding: 15px;
+  text-align: center;
+}
+body {
+  background-color: rgb(171, 244, 244);
+}
+.b {
+  border: solid black;
+  border-radius: 5px;
+  padding: 12px;
+  background-color: rgb(150, 214, 239);
+  font-weight: bold;
+}
+.b:hover {
+  cursor: pointer;
+  background-color: rgb(102, 198, 236);
+}
+.b:active {
+  background-color: rgb(12, 65, 237);
+}
+hr {
+  height: 2px;
+  background-color: black;
+}
